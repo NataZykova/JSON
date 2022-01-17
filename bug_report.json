@@ -1,15 +1,24 @@
 {
-  "Summary":"Неактивна кнопка обратной связи",
-  "Project": "multiplex.ua",
-  "Component:"Про компанию",
-  "Severity":"S4",
-   "Steps":{ "Step1": "Перейти на сайт multiplex.ua",
-	     "Step2":"Открыть боковое меню и выбрать раздел про компанию",
-	     "Step3":"Нажать  на кнопку обратная  связь"
-		}
-
-
-   "Actual Result":"Отображение информации в разделе обратная связь",
-    "Expected result":"Кнопка не активна"
+id:
+summary:
+environment: 
+precondition:
+status:
+submitted by:
+assigned to:
+component:
+version found:
+version fixed:
+description:
+steps to reproduce:
+actual result:
+expected result:
+reproducibility:
+severity:
+priority:
+symptom:
+workaround:
+comments:
+attachments:
 
  }
